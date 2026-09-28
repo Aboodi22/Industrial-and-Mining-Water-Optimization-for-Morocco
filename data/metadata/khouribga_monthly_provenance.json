@@ -1,0 +1,10 @@
+{
+  "dataset_name": "Khouribga synthetic monthly water case",
+  "source_type": "simulated",
+  "source_name": "EDI Morocco Water synthetic starter dataset",
+  "source_url": null,
+  "date_accessed": "2026-09-28",
+  "licence": "MIT project licence; dataset is synthetic",
+  "confidence": "low for real-world representation; deterministic for software testing",
+  "notes": "All capacities, demands, limits, costs and coordinates are illustrative assumptions. Not official, observed, or OCP data. Fixed deterministic values; no random generator used."
+}
